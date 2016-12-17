@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="title_activity_edit_your_note">Edit your note</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
